@@ -13,10 +13,12 @@ import concurrent.futures
 # CONFIG
 # ---------------------------
 TOKENS = [
-"bot token",]
+"9202934886:AAHuuirPg0tUX9j1e7g4OYYCjfZeJ9cFpf8",
+"8856737698:AAHBTts-xXVuilnyDhXC3_AYBfTiU4phJi8",
 
+]
 
-OWNER_ID = "Sam'id"
+OWNER_ID = 6762302256
 SUDO_FILE = "0752.json"
 
 # ---------------------------
